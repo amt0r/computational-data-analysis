@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Computational Data Analysis
 
 This repository contains a collection of practical projects and assignments focusing on various aspects of data analysis, statistical modeling, machine learning, and data visualization. All projects are implemented in Python.
 
